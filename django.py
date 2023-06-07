@@ -1,0 +1,1 @@
+print('YOU MUST DO DJANGO PROJECT')
